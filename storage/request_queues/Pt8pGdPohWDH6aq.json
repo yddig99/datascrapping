@@ -1,0 +1,9 @@
+{
+	"id": "Pt8pGdPohWDH6aq",
+	"json": "{\"id\":\"Pt8pGdPohWDH6aq\",\"url\":\"https://demo-webstore.apify.org/product/plant-hanger-for-home\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/plant-hanger-for-home\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/plant-hanger-for-home\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-08T10:26:28.287Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/plant-hanger-for-home",
+	"url": "https://demo-webstore.apify.org/product/plant-hanger-for-home"
+}

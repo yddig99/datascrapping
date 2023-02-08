@@ -1,0 +1,9 @@
+{
+	"id": "Wwn8lfjZyuZzFUo",
+	"json": "{\"id\":\"Wwn8lfjZyuZzFUo\",\"url\":\"https://demo-webstore.apify.org/product/samsung-universe-9\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/samsung-universe-9\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/samsung-universe-9\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-08T10:26:21.697Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/samsung-universe-9",
+	"url": "https://demo-webstore.apify.org/product/samsung-universe-9"
+}

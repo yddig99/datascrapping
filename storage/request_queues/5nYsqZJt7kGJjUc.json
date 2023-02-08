@@ -1,0 +1,9 @@
+{
+	"id": "5nYsqZJt7kGJjUc",
+	"json": "{\"id\":\"5nYsqZJt7kGJjUc\",\"url\":\"https://demo-webstore.apify.org/product/perfume-oil\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/perfume-oil\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/perfume-oil\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-08T10:26:24.891Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/perfume-oil",
+	"url": "https://demo-webstore.apify.org/product/perfume-oil"
+}

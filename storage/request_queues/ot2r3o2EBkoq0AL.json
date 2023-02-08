@@ -1,0 +1,9 @@
+{
+	"id": "ot2r3o2EBkoq0AL",
+	"json": "{\"id\":\"ot2r3o2EBkoq0AL\",\"url\":\"https://demo-webstore.apify.org/product/3-lights-lndenpant-kitchen-islang\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/3-lights-lndenpant-kitchen-islang\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/3-lights-lndenpant-kitchen-islang\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-08T10:26:54.030Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/3-lights-lndenpant-kitchen-islang",
+	"url": "https://demo-webstore.apify.org/product/3-lights-lndenpant-kitchen-islang"
+}

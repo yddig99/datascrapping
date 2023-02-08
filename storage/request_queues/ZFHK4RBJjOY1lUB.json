@@ -1,0 +1,9 @@
+{
+	"id": "ZFHK4RBJjOY1lUB",
+	"json": "{\"id\":\"ZFHK4RBJjOY1lUB\",\"url\":\"https://demo-webstore.apify.org/product/stiched-kurta-plus-trouser\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/stiched-kurta-plus-trouser\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/stiched-kurta-plus-trouser\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-08T10:26:36.674Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/stiched-kurta-plus-trouser",
+	"url": "https://demo-webstore.apify.org/product/stiched-kurta-plus-trouser"
+}

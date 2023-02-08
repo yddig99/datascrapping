@@ -1,0 +1,9 @@
+{
+	"id": "qnl1WwrwAATXzCC",
+	"json": "{\"id\":\"qnl1WwrwAATXzCC\",\"url\":\"https://demo-webstore.apify.org/search/on-sale\",\"loadedUrl\":\"https://demo-webstore.apify.org/search/on-sale\",\"uniqueKey\":\"https://demo-webstore.apify.org/search/on-sale\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"START\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-08T10:26:17.245Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/search/on-sale",
+	"url": "https://demo-webstore.apify.org/search/on-sale"
+}

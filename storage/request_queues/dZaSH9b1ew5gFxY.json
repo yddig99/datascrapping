@@ -1,0 +1,9 @@
+{
+	"id": "dZaSH9b1ew5gFxY",
+	"json": "{\"id\":\"dZaSH9b1ew5gFxY\",\"url\":\"https://demo-webstore.apify.org/product/golden-watch-pearls-bracelet-watch\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/golden-watch-pearls-bracelet-watch\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/golden-watch-pearls-bracelet-watch\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-08T10:26:43.524Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/golden-watch-pearls-bracelet-watch",
+	"url": "https://demo-webstore.apify.org/product/golden-watch-pearls-bracelet-watch"
+}

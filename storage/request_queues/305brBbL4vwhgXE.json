@@ -1,0 +1,9 @@
+{
+	"id": "305brBbL4vwhgXE",
+	"json": "{\"id\":\"305brBbL4vwhgXE\",\"url\":\"https://demo-webstore.apify.org/product/3d-embellishment-art-lamp\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/3d-embellishment-art-lamp\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/3d-embellishment-art-lamp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-08T10:26:28.659Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/3d-embellishment-art-lamp",
+	"url": "https://demo-webstore.apify.org/product/3d-embellishment-art-lamp"
+}

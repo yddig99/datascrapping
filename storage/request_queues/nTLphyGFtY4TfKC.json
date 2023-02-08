@@ -1,0 +1,9 @@
+{
+	"id": "nTLphyGFtY4TfKC",
+	"json": "{\"id\":\"nTLphyGFtY4TfKC\",\"url\":\"https://demo-webstore.apify.org/product/wiley-x-night-vision-yellow-glasses\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/wiley-x-night-vision-yellow-glasses\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/wiley-x-night-vision-yellow-glasses\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-08T10:26:52.774Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/wiley-x-night-vision-yellow-glasses",
+	"url": "https://demo-webstore.apify.org/product/wiley-x-night-vision-yellow-glasses"
+}

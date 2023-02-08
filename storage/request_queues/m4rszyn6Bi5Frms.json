@@ -1,0 +1,9 @@
+{
+	"id": "m4rszyn6Bi5Frms",
+	"json": "{\"id\":\"m4rszyn6Bi5Frms\",\"url\":\"https://demo-webstore.apify.org/product/samsung-galaxy-book\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/samsung-galaxy-book\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/samsung-galaxy-book\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-08T10:26:22.189Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/samsung-galaxy-book",
+	"url": "https://demo-webstore.apify.org/product/samsung-galaxy-book"
+}

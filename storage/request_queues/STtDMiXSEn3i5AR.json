@@ -1,0 +1,9 @@
+{
+	"id": "STtDMiXSEn3i5AR",
+	"json": "{\"id\":\"STtDMiXSEn3i5AR\",\"url\":\"https://demo-webstore.apify.org/product/louiswill-men-sunglasses\",\"loadedUrl\":\"https://demo-webstore.apify.org/product/louiswill-men-sunglasses\",\"uniqueKey\":\"https://demo-webstore.apify.org/product/louiswill-men-sunglasses\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-02-08T10:26:53.424Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://demo-webstore.apify.org/product/louiswill-men-sunglasses",
+	"url": "https://demo-webstore.apify.org/product/louiswill-men-sunglasses"
+}
